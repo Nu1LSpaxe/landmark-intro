@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Landmark-Intro</string>
+    <string name="zero_two_01">This is picture 01</string>
+    <string name="zero_two_02">This is picture 02</string>
+    <string name="zero_two_03">This is picture 03</string>
+    <string name="zero_two_04">This is picture 04</string>
+    <string name="zero_two_05">This is picture 05</string>
+    <string name="jinx_01">This is picture 06</string>
+    <string name="jinx_02">This is picture 07</string>
+    <string name="jinx_03">This is picture 08</string>
+    <string name="jinx_04">This is picture 09</string>
+    <string name="jinx_05">This is picture 10</string>
+</resources>
